@@ -1,0 +1,71 @@
+{
+    "basics": {
+        "name": "Anant /jain",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/75747269?s=400&u=403500ad213e9dca3ea5e1a343f76b6fccd1ea07&v=4",
+        "email": "2020kucp1136@iiitkota.ac.in",
+        "phone": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), pursuing Bachelors of Technology in Computer Science & Engineering.",
+        "location": {
+            "address": "Jaipur",
+            "postalCode": "302018",
+            "city": "Jaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "Anant-gif",
+                "url": "https://github.com/Anant-gif"
+            },
+            {
+                "network": "Linkedin",
+                "username": "Anant Jain",
+                "url": "https://www.linkedin.com/in/anant-jain-a27094219"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++",
+                "Javascript"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Photography",
+            "keywords": [
+                "Photography"
+            ]
+        },
+        {
+            "name": "Sports",
+            "keywords":[
+                "Basketball","Chess"
+            ]
+        }
+    ],
+    "references": []
+}
