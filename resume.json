@@ -61,9 +61,10 @@
             ]
         },
         {
-            "name": "Sports",
+            "name": "Playing",
             "keywords":[
-                "Basketball","Chess"
+                "Basketball",
+                "Chess"
             ]
         }
     ],
